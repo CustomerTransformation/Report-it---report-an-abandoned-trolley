@@ -11,7 +11,7 @@
     "date_due_warn": "",
     "showCaseReference": false,
     "isSubform": false,
-    "notes": "added Report it in the process name",
+    "notes": "new email integration to housing depot instead of sct",
     "initial_stage": "Stage 1",
     "initial_stage_id": "AF-Stage-3e638b27-a892-4cb6-8891-e751781958b0",
     "prefix": "RP",
@@ -38,7 +38,7 @@
             "repeat_interval": ""
           },
           {
-            "id": "5c52d181c5845",
+            "id": "5d95b4a8b0057",
             "condition": "",
             "repeat_against": "",
             "type_condition": "submission",
@@ -9121,7 +9121,7 @@
           "populated": true
         },
         {
-          "label": "If you have any evidence, upload photos and videos here",
+          "label": "Upload photos or videos of the issue here",
           "dataName": "uploadEvidence",
           "populated": true
         },
